@@ -1,0 +1,4 @@
+Os graficos sao desenhados por codigo com Pygame.
+Nao ha imagens, fontes ou sons externos distribuidos neste projeto.
+A voz usa o sintetizador do sistema por meio de pyttsx3.
+Coloque nesta pasta qualquer recurso externo que venha a ser adicionado.

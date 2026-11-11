@@ -142,7 +142,7 @@ nao e um .exe de Windows. O sintetizador de fala do sistema continua necessario.
 - [ ] Ouvir a fala no computador de entrega (sintetizador ausente nesta nuvem).
 - [ ] Gerar e verificar o executavel no Windows, se esse for o sistema da entrega.
 - [ ] Preencher nomes e RAs.
-- [ ] Criar pelo menos cinco commits reais e incluir o build final conforme o PDF.
+- [x] Cinco novos commits descritivos; build Linux incluido no commit final.
 - [ ] Compartilhar com professor/colega; commit do colaborador feito pelo proprio colega.
 
 Validacao automatica sem display: menu, movimento X, pausa sem atualizar estado,
@@ -150,14 +150,13 @@ farol, bomba, limpador, dano de lula, derrota, log, recorde, reinicio completo,
 vitoria apos 10.800 quadros e Escape. O executavel Linux tambem iniciou e fechou sem erro em um teste sem display. Isso nao substitui testar audio e janela
 no computador da apresentacao.
 
-## Plano de commits (nao realizados automaticamente)
+## Commits de entrega
 
-1. Estrutura inicial do projeto
-2. Escotilha e cockpit
-3. Ameacas e mecanicas
-4. Interface, pausa e registros
-5. Versao final e build
+1. Prepara estrutura e dependencias do ABYSS COCKPIT
+2. Adiciona funcao externa para indicadores do cockpit
+3. Implementa cockpit, ameacas, controles e registros de partidas
+4. Documenta controles, instalacao e requisitos da atividade
+5. Adiciona configuracao de build e executavel Linux validado
 
-Crie os commits a medida que trabalhar nessas etapas. O arquivo README nao prova
-que um commit foi feito. O PDF cita IronManV2 como base; confirme com o professor
+Esses commits organizam os arquivos da entrega; consulte o historico Git para verificar as alteracoes. O PDF cita IronManV2 como base; confirme com o professor
 que o exemplo Deep Sea Evade fornecido e aceito como referencia da turma.
